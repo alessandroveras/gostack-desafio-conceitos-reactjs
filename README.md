@@ -13,25 +13,14 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<p align="center">
-<a href="https://github.com/alessandroveras/gostack-desafio-conceitos-reactjs/graphs/contributors"><img src="https://camo.githubusercontent.com/d99f3ab17ad91091a866e41e54e5b448e14d188c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f616c657373616e64726f76657261732f676f737461636b2d6465736166696f2d636f6e636569746f732d6e6f64656a732e7376673f7374796c653d706c6173746963" alt="Contributors" data-canonical-src="https://img.shields.io/github/contributors/alessandroveras/gostack-desafio-conceitos-reactjs.svg?style=plastic" style="max-width:100%;"></a>
-<a href="https://github.com/alessandroveras/gostack-desafio-conceitos-reactjs"><img src="https://camo.githubusercontent.com/4b0b02f31eeacdcd6f5a11b9ee224bac1c083ea0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f616c657373616e64726f76657261732f676f737461636b2d6465736166696f2d636f6e636569746f732d6e6f64656a732e7376673f7374796c653d706c6173746963" alt="Repo Size" data-canonical-src="https://img.shields.io/github/repo-size/alessandroveras/gostack-desafio-conceitos-reactjs.svg?style=plastic" style="max-width:100%;"></a>
-<a href="https://github.com/alessandroveras/gostack-desafio-conceitos-reactjs"><img src="https://camo.githubusercontent.com/fb227b8d9d0d7777612ec3472707a923a558adc4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f616c657373616e64726f76657261732f676f737461636b2d6465736166696f2d636f6e636569746f732d6e6f64656a733f7374796c653d706c6173746963" alt="Last Commit" data-canonical-src="https://img.shields.io/github/last-commit/alessandroveras/gostack-desafio-conceitos-reactjs?style=plastic" style="max-width:100%;"></a>
-<a href="https://github.com/alessandroveras/gostack-desafio-conceitos-reactjs"><img src="https://camo.githubusercontent.com/2cdbcabce8b15321c8ca08bbdb3de7d0ef55e34e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f616c657373616e64726f76657261732f676f737461636b2d6465736166696f2d636f6e636569746f732d6e6f64656a732e7376673f7374796c653d706c6173746963" alt="Top Language" data-canonical-src="https://img.shields.io/github/languages/top/alessandroveras/gostack-desafio-conceitos-reactjs.svg?style=plastic" style="max-width:100%;"></a>
-<a href="https://app.codacy.com/manual/alessandroveras/gostack-desafio-conceitos-reactjs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alessandroveras/gostack-desafio-conceitos-reactjs&amp;utm_campaign=Badge_Grade_Dashboard" rel="nofollow"><img src="https://camo.githubusercontent.com/2e0910bfb6e0d7410f9b3d9f8c4dacfde50f2a26/68747470733a2f2f696d672e736869656c64732e696f2f636f646163792f67726164652f38633161336236383235316134366437626239316338303633626664636131383f7374796c653d706c6173746963" alt="Codacy Grade" data-canonical-src="https://img.shields.io/codacy/grade/9a02b2fa8b2045c98c63a223722afd07?style=plastic" style="max-width:100%;"></a>
-<a href="https://snyk.io/test/github/alessandroveras/gostack-desafio-conceitos-reactjs?targetFile=package.json" rel="nofollow"><img src="https://camo.githubusercontent.com/83856f040b5b78101dc4e78ba84542996a653e56/68747470733a2f2f696d672e736869656c64732e696f2f736e796b2f76756c6e65726162696c69746965732f6769746875622f616c657373616e64726f76657261732f676f737461636b2d6465736166696f2d636f6e636569746f732d6e6f64656a733f7374796c653d706c6173746963" alt="Snyk Vulnerabilities" data-canonical-src="https://img.shields.io/snyk/vulnerabilities/github/alessandroveras/gostack-desafio-conceitos-reactjs?style=plastic" style="max-width:100%;"></a>
-<a href="https://github.com/alessandroveras/gostack-desafio-conceitos-reactjs/issues"><img src="https://camo.githubusercontent.com/e2f15a6e6b411074b0bf9537fbf55e586a3eaf46/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f616c657373616e64726f76657261732f676f737461636b2d6465736166696f2d636f6e636569746f732d6e6f64656a732e7376673f7374796c653d706c6173746963" alt="Issues" data-canonical-src="https://img.shields.io/github/issues/alessandroveras/gostack-desafio-conceitos-reactjs.svg?style=plastic" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/alessandro-veras-09903022/" rel="nofollow"><img src="https://camo.githubusercontent.com/0bedee8bc227d0a6171bdbcc33b7a53101b6d0da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&amp;logo=linkedin&amp;colorB=555" style="max-width:100%;"></a>
-</p>
-
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Repo Size][repository-size]][repo-url]
 [![Last Commit][lastcommit-shield]][repo-url]
 [![Top Language][toplanguage-shield]][repo-url]
 [![Codacy Grade][codacy-shield]][codacy-url]
 [![Snyk Vulnerabilities][vulnerabilities-shield]][vulnerabilities-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
   <a href="#thought_balloon-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
