@@ -5,13 +5,13 @@ import "./styles.css";
 
 function App() {
 
-  const [repositories, setProjects] = useState([]);
+  const [repositories, setRepositories] = useState([]);
 
   useEffect(() => {
     api.get('repositories').then(response => {
-        setProjects(response.data);
+        setRepositories(response.data);
     });
-}, []);
+  }, []);
 
   async function handleAddRepository() {
 
@@ -23,9 +23,9 @@ function App() {
     
     if (response.status === 200) {
       
-      const repositorie = response.data;
+      const repository = response.data;
 
-      setProjects([...repositories, repositorie]);
+      setRepositories([...repositories, repository]);
       
     }    
   }
@@ -36,21 +36,22 @@ function App() {
     
     if (response.status === 204) {
       
-      const updatedRepo = repositories.filter(repositorie => repositorie.id !== id);
+      const updatedRepo = repositories.filter(repository => repository.id !== id);
 
-      setProjects(updatedRepo);  
+      setRepositories(updatedRepo);  
     }    
   
   }
 
   return (
     <div>
+
       <ul data-testid="repository-list">
         
-        {repositories.map(repositorie => 
-        <li key={repositorie.id}>{repositorie.title}
-          <button onClick={() => handleRemoveRepository(repositorie.id)}>Remover</button>
-        </li>)}
+        {repositories.map(repository => 
+          <li key={repository.id}>{repository.title}
+            <button onClick={() => handleRemoveRepository(repository.id)}>Remover</button>
+          </li>)}
 
       </ul>
 
